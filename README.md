@@ -30,5 +30,5 @@ A multi-line statusline for Claude Code: context window, 5-hour and weekly rate 
 #### Things I've found lately
 
 - Laya, the viral open "System One" model, silently cuts off long input after about 475 tokens, and a word-overlap baseline beats it on Banking77.
-- On Apple Silicon, RSS undercounts GPU-backed models by 10–90×; physical footprint is the number to trust.
+- On Apple Silicon, RSS undercounts GPU-backed models by 3–90×; physical footprint is the number to trust.
 - Decision-trained 2B models match 4B ones at half the latency. [Full results →](https://github.com/goodboybeau/system-one-playground#results-on-an-m1-max-32-gb)
